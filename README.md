@@ -1,2 +1,2 @@
 # pipeline-scripts
-Run scripts from a pipeline.
+Run scripts to display fibonacci numbers from a pipeline.
